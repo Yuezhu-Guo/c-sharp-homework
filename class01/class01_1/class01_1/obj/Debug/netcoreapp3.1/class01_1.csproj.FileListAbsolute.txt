@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\c# .net\class\class01\class01_1\class01_1\bin\Debug\netcoreapp3.1\class01_1.exe
+\\Mac\Home\Desktop\c# .net\class\class01\class01_1\class01_1\bin\Debug\netcoreapp3.1\class01_1.deps.json
+\\Mac\Home\Desktop\c# .net\class\class01\class01_1\class01_1\bin\Debug\netcoreapp3.1\class01_1.runtimeconfig.json
+\\Mac\Home\Desktop\c# .net\class\class01\class01_1\class01_1\bin\Debug\netcoreapp3.1\class01_1.runtimeconfig.dev.json
+\\Mac\Home\Desktop\c# .net\class\class01\class01_1\class01_1\bin\Debug\netcoreapp3.1\class01_1.dll
+\\Mac\Home\Desktop\c# .net\class\class01\class01_1\class01_1\bin\Debug\netcoreapp3.1\class01_1.pdb
+\\Mac\Home\Desktop\c# .net\class\class01\class01_1\class01_1\obj\Debug\netcoreapp3.1\class01_1.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\c# .net\class\class01\class01_1\class01_1\obj\Debug\netcoreapp3.1\class01_1.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\c# .net\class\class01\class01_1\class01_1\obj\Debug\netcoreapp3.1\class01_1.AssemblyInfo.cs
+\\Mac\Home\Desktop\c# .net\class\class01\class01_1\class01_1\obj\Debug\netcoreapp3.1\class01_1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\c# .net\class\class01\class01_1\class01_1\obj\Debug\netcoreapp3.1\class01_1.dll
+\\Mac\Home\Desktop\c# .net\class\class01\class01_1\class01_1\obj\Debug\netcoreapp3.1\class01_1.pdb
+\\Mac\Home\Desktop\c# .net\class\class01\class01_1\class01_1\obj\Debug\netcoreapp3.1\class01_1.genruntimeconfig.cache

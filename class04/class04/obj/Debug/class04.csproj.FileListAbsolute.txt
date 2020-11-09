@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\c# .net\class\class04\class04\bin\Debug\class04.exe.config
+\\Mac\Home\Desktop\c# .net\class\class04\class04\bin\Debug\class04.exe
+\\Mac\Home\Desktop\c# .net\class\class04\class04\bin\Debug\class04.pdb
+\\Mac\Home\Desktop\c# .net\class\class04\class04\obj\Debug\class04.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\c# .net\class\class04\class04\obj\Debug\class04.Form1.resources
+\\Mac\Home\Desktop\c# .net\class\class04\class04\obj\Debug\class04.Properties.Resources.resources
+\\Mac\Home\Desktop\c# .net\class\class04\class04\obj\Debug\class04.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\c# .net\class\class04\class04\obj\Debug\class04.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\c# .net\class\class04\class04\obj\Debug\class04.exe
+\\Mac\Home\Desktop\c# .net\class\class04\class04\obj\Debug\class04.pdb

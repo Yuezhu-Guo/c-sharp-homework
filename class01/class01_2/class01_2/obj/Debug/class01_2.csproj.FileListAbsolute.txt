@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\c# .net\class\class01\class01_2\class01_2\bin\Debug\class01_2.exe.config
+\\Mac\Home\Desktop\c# .net\class\class01\class01_2\class01_2\bin\Debug\class01_2.exe
+\\Mac\Home\Desktop\c# .net\class\class01\class01_2\class01_2\bin\Debug\class01_2.pdb
+\\Mac\Home\Desktop\c# .net\class\class01\class01_2\class01_2\obj\Debug\class01_2.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\c# .net\class\class01\class01_2\class01_2\obj\Debug\class01_2.Form1.resources
+\\Mac\Home\Desktop\c# .net\class\class01\class01_2\class01_2\obj\Debug\class01_2.Properties.Resources.resources
+\\Mac\Home\Desktop\c# .net\class\class01\class01_2\class01_2\obj\Debug\class01_2.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\c# .net\class\class01\class01_2\class01_2\obj\Debug\class01_2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\c# .net\class\class01\class01_2\class01_2\obj\Debug\class01_2.exe
+\\Mac\Home\Desktop\c# .net\class\class01\class01_2\class01_2\obj\Debug\class01_2.pdb
